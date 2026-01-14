@@ -1,5 +1,5 @@
 # Hi, I'm Devika! 👋
-### Full-Stack Developer | C++ Enthusiast | Aspiring Software Engineer
+### Aspiring Full-Stack Developer | C++ Enthusiast | Aspiring Software Engineer
 - 🎓 2nd Year Integrated M.Sc. Student at  Kannur University
 - 🔭 Currently working on game development
 - 🌱 Learning: full stack development , UNITY game dev 
