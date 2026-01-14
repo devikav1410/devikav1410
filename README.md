@@ -13,4 +13,4 @@
 [![Devika's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=devikav1410&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devikav1410&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![trophies](https://github-profile-trophy.vercel.app/?username=devikav1410&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophies](https://github-profile-trophy-v2.vercel.app/?username=devikav1410&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
